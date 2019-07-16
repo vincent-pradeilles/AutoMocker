@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
   s.name             = 'AutoMocker'
   s.version          = '0.1'
-  s.summary          = 'AutoMocker is a Swift framework that leverages the type system in order to let you easily create mocked instances of your data types.'
+  s.summary          = 'AutoMocker is a Swift framework that leverages the type system to let you easily create mocked instances of your data types.'
 
   s.description      = <<-DESC
-AutoMocker is a Swift framework that leverages the type system in order to let you easily create mocked instances of your data types.
+AutoMocker is a Swift framework that leverages the type system to let you easily create mocked instances of your data types.
 
 Here's an example of how it can be used:
 
