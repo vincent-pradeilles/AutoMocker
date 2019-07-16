@@ -1,12 +1,12 @@
-# AutoMockable
+# AutoMocker
 
 ![platforms](https://img.shields.io/badge/platforms-iOS-333333.svg)
-![pod](https://img.shields.io/cocoapods/v/AutoMockable.svg)
+![pod](https://img.shields.io/cocoapods/v/AutoMocker)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 ## Context
 
-AutoMockable is a Swift framework that leverages the type system in order to let you easily create mocked instances of your data types.
+AutoMocker is a Swift framework that leverages the type system in order to let you easily create mocked instances of your data types.
 
 Here's an example of how it can be used:
 
@@ -30,13 +30,13 @@ Xcode 10+ & Swift 5.0
 
 Add the following to your `Podfile`:
 
-`pod "AutoMockable"`
+`pod "AutoMocker"`
 
 ### Carthage
 
 Add the following to your `Cartfile`:
 
-`github "vincent-pradeilles/AutoMockable"`
+`github "vincent-pradeilles/AutoMocker"`
 
 ## Author
 
