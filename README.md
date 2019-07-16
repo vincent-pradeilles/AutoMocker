@@ -20,6 +20,8 @@ struct MyData {
 let mocked = mock(MyData.init) // a mocked instance has been created 🎉
 ```
 
+For the moment, AutoMocker supports initializers that take up to 6 arguments.
+
 ## Requirements
 
 Xcode 10+ & Swift 5.0
