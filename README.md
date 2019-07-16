@@ -1,7 +1,7 @@
 # AutoMocker
 
 ![platforms](https://img.shields.io/badge/platforms-iOS-333333.svg)
-![pod](https://img.shields.io/cocoapods/v/AutoMocker)
+![pod](https://img.shields.io/cocoapods/v/AutoMocker.svg)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 ## Context
