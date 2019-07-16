@@ -6,7 +6,7 @@
 
 ## Context
 
-AutoMocker is a Swift framework that leverages the type system in order to let you easily create mocked instances of your data types.
+AutoMocker is a Swift framework that leverages the type system to let you easily create mocked instances of your data types.
 
 Here's an example of how it can be used:
 
