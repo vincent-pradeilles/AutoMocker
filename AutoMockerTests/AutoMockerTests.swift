@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import AutoMocker
+import AutoMocker
 
 fileprivate struct MyData {
     let bool: Bool
